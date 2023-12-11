@@ -97,7 +97,7 @@ ripser==0.6.1
 rpds-py==0.13.1
 ruamel.yaml==0.18.5
 ruamel.yaml.clib==0.2.8
-scipy==1.8.1
+scipy
 six==1.15.0
 snowballstemmer==2.2.0
 Sphinx==7.2.6
