@@ -27,7 +27,7 @@ fastjsonschema==2.19.0
 filelock==3.13.1
 flake8==6.1.0
 fonttools==4.33.3
-freud==0.1.2
+freud
 hopcroftkarp==1.2.5
 identify==2.5.32
 idna==2.10
