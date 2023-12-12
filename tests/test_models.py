@@ -60,7 +60,7 @@ def test_daily_min_string():
 @pytest.mark.parametrize(
     "test, expected, expect_raises",
     [
-        ...(
+        (
             "hello",
             None,
             TypeError,
