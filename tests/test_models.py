@@ -89,6 +89,6 @@ def test_patient_normalise(test, expected, expect_raises):
         ([[0, 0], [0, 0], [0, 0]], [0, 0]),
         ([[1, 2], [3, 4], [5, 6]], [1.63, 1.63]),
     ])
-def test_daily-std-dev(test,expected):
+def test_daily_std_dev(test,expected):
     from inflammation.models import patient_normalise
      npt.assert_array_equal(patient_normalise(test), np.array(expected), decimal=2)
